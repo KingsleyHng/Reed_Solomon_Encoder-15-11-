@@ -119,31 +119,7 @@ Output: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11,  3,  3, 12, 12
 
 ---
 
-## Simulation
 
-### Prerequisites
-
-| Tool     | Verified version |
-|----------|-----------------|
-| VCS      | 2023.03         |
-| Xcelium  | 23.09           |
-| Icarus Verilog | 12.0 (`iverilog`) |
-
-### Run
-
-```bash
-# VCS
-make sim TOOL=vcs
-
-# Xcelium
-make sim TOOL=xcelium
-
-# Icarus (free, open-source)
-make sim TOOL=iverilog
-
-# Open waveform
-make wave
-```
 
 ### Expected Output
 
