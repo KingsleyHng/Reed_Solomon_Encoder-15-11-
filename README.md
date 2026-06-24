@@ -169,7 +169,4 @@ MIT License. See [LICENSE](LICENSE).
 
 ---
 
-## Author
 
-H'ng Kean Teong  
-Junior IC Digital Design Engineer
