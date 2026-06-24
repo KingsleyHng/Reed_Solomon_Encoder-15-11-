@@ -31,8 +31,6 @@ A fully verified, synthesizable Reed-Solomon encoder core implemented in SystemV
 │   └── tb_rs_encoder.sv     # Self-checking testbench (4 test scenarios)
 ├── doc/
 │   └── rs_encoder_design.md # Design specification (Chinese, detailed)
-├── sim/
-│   └── Makefile             # Simulation targets for VCS / Xcelium / Icarus
 └── README.md
 ```
 
